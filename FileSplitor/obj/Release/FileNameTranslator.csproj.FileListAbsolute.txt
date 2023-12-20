@@ -1,0 +1,10 @@
+D:\Work\Filename-Translator-master\FileNameTranslator\bin\Release\FnTranslator.exe.config
+D:\Work\Filename-Translator-master\FileNameTranslator\bin\Release\FnTranslator.exe
+D:\Work\Filename-Translator-master\FileNameTranslator\bin\Release\FnTranslator.pdb
+D:\Work\Filename-Translator-master\FileNameTranslator\obj\Release\FileNameTranslator.csproj.CoreCompileInputs.cache
+D:\Work\Filename-Translator-master\FileNameTranslator\obj\Release\FileNameTranslator.csproj.CopyComplete
+D:\Work\Filename-Translator-master\FileNameTranslator\obj\Release\FnTranslator.exe
+D:\Work\Filename-Translator-master\FileNameTranslator\obj\Release\FnTranslator.pdb
+D:\Work\Filename-Translator-master\FileNameTranslator\bin\Release\Newtonsoft.Json.dll
+D:\Work\Filename-Translator-master\FileNameTranslator\bin\Release\Newtonsoft.Json.xml
+D:\Work\Filename-Translator-master\FileNameTranslator\obj\Release\FileNameTranslator.csprojAssemblyReference.cache

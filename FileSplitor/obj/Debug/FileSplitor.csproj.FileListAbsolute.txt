@@ -1,0 +1,16 @@
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\FileSplitor.exe.config
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\FileSplitor.exe
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\FileSplitor.pdb
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FileSplitor.csproj.CoreCompileInputs.cache
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FileSplitor.csproj.CopyComplete
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FileSplitor.exe
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FileSplitor.pdb
+D:\Work\File-Splitor\FileSplitor\bin\Debug\FileSplitor.exe.config
+D:\Work\File-Splitor\FileSplitor\bin\Debug\FileSplitor.exe
+D:\Work\File-Splitor\FileSplitor\bin\Debug\FileSplitor.pdb
+D:\Work\File-Splitor\FileSplitor\obj\Debug\FileSplitor.csprojAssemblyReference.cache
+D:\Work\File-Splitor\FileSplitor\obj\Debug\FileSplitor.csproj.CoreCompileInputs.cache
+D:\Work\File-Splitor\FileSplitor\obj\Debug\FileSplitor.exe
+D:\Work\File-Splitor\FileSplitor\obj\Debug\FileSplitor.pdb

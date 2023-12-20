@@ -1,0 +1,10 @@
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\FnTranslator.exe.config
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\FnTranslator.exe
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\FnTranslator.pdb
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\Newtonsoft.Json.dll
+D:\Work\Filename-Splite\FilenameSplitor\bin\Debug\Newtonsoft.Json.xml
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FilenameSplitor.csprojAssemblyReference.cache
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FilenameSplitor.csproj.CoreCompileInputs.cache
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FilenameSplitor.csproj.CopyComplete
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FnTranslator.exe
+D:\Work\Filename-Splite\FilenameSplitor\obj\Debug\FnTranslator.pdb
