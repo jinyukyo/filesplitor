@@ -4,4 +4,5 @@ Place the files to be split into [file] directory,The split file is located in t
 
 
 https://github.com/lesserkuma/GBA_MultiMenu
-The latest tools can cut
+Now The latest tools can cut
+Maybe there will be other uses, right
